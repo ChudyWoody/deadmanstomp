@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://example.org/posts/dead-man-stomp/</link>
@@ -90,13 +90,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.org/posts/npc-zombie-pete-manusco/</guid>
       <description>&lt;p&gt;[[Dead Man Stomp]]&lt;/p&gt;&#xA;&lt;h1 id=&#34;zombie-pete-manusco&#34;&gt;Zombie Pete Manusco&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Atrybut&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;Wartość&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;STR&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;85&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;CON&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;75&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;SIZ&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;55&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;DEX&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;30&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;INT&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;00&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;APP&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;—&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;POW&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;05&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;EDU&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;—&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;SAN&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;—&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;HP&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;13&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;DB&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;+1D4&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Build&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Ruch&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;walka&#34;&gt;&lt;strong&gt;Walka&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ataki na rundę:&lt;/strong&gt; 1 (rozszarpanie lub ugryzienie)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Walka wręcz&lt;/strong&gt; – 30% (15/6), obrażenia 1D3+1D4&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Unik&lt;/strong&gt; – Zombie nie unikają&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://example.org/untitled/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/untitled/</guid>
-      <description>&lt;p&gt;[[Dead Man Stomp]]&#xA;Fira ra gula mahata | niech płonie wszystko co jest&#xA;ra Mira la gula Nya | z podziemia Świata niech wyjdzie Syn&#xA;ralotepa gohontepe Mira | gdy Książę odzyska tron świata&#xA;| ojciec odzyska swój sen&lt;/p&gt;&#xA;&lt;p&gt;KULTYŚCI CHCĄ URATOWAĆ ŚWIAT, AZATOTH SIĘ BUDZI, DLATEGO BYŁA WOOJNA I BĘDZIE WOJNA :D&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

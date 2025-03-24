@@ -2,36 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/dead-man-stomp/</loc>
+    <loc>https://example.org/posts/dead-man-stomp/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-archie-boss-bonato/</loc>
+    <loc>https://example.org/posts/npc-archie-boss-bonato/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-jimmy-ma%C5%82y-foster-lat-34-zbir/</loc>
+    <loc>https://example.org/posts/npc-jimmy-ma%C5%82y-foster-lat-34-zbir/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-joey-larson-24-lata-zabijaka/</loc>
+    <loc>https://example.org/posts/npc-joey-larson-24-lata-zabijaka/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-leroy-turner/</loc>
+    <loc>https://example.org/posts/npc-leroy-turner/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-policjanci/</loc>
+    <loc>https://example.org/posts/npc-policjanci/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-roger-daniels/</loc>
+    <loc>https://example.org/posts/npc-roger-daniels/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-sze%C5%9Bciu-gangster%C3%B3w-%C5%BCa%C5%82obnik%C3%B3w-lub-mieszka%C5%84c%C3%B3w/</loc>
+    <loc>https://example.org/posts/npc-sze%C5%9Bciu-gangster%C3%B3w-%C5%BCa%C5%82obnik%C3%B3w-lub-mieszka%C5%84c%C3%B3w/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-zombie-freddie-fayette/</loc>
+    <loc>https://example.org/posts/npc-zombie-freddie-fayette/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-zombie-joey-larson/</loc>
+    <loc>https://example.org/posts/npc-zombie-joey-larson/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-zombie-leroy-turner/</loc>
+    <loc>https://example.org/posts/npc-zombie-leroy-turner/</loc>
   </url><url>
-    <loc>http://localhost:1313/npc-zombie-pete-manusco/</loc>
+    <loc>https://example.org/posts/npc-zombie-pete-manusco/</loc>
   </url><url>
-    <loc>http://localhost:1313/untitled/</loc>
+    <loc>https://example.org/untitled/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/posts/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>

@@ -1,3 +1,14 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+#baseURL = 'https://example.org/'
+#languageCode = 'en-us'
+#title = 'My New Hugo Site'
+
+
+
+baseURL = "https://ChudyWoody.github.io/"
+languageCode = "en-us"
+title = "My Hugo Site"
+publishDir = "docs" # Required for GitHub Pages if using a project repo
+
+
+
+theme = "ananke"
